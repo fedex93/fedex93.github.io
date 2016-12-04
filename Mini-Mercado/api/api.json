@@ -1,0 +1,200 @@
+{
+    "items":[{"id":1,
+                "displayname":"Kia Picanto FULL MANUAL",
+                "description" : [{"title": "Descripcion general", "text":"Es un producto en muy buen estado!"},
+                                {"title": "Procedencia", "text":"Europea"},
+                                {"title": "Año", "text":"2015"},
+                                {"title": "Garantia", "text":"2 años"}
+
+                                ],
+                "questions" : [{"question":"Quedan en stock?", "user": "User43", "reply" : "Aun tengo!"},
+                             {"question":"Aceptan MercadoPago?", "user": "Jose54", "reply" : "Aceptamos, saludos."},
+                             {"question":"Puedo pasar a buscarlo?", "user": "NicolasViera",  "reply" : "Si podes pasar, estamos en la zona de Pocitos."},
+                            {"question":"Quisiera comprar 50, venden a mayorista?", "user": "BarrioDeLosJudios",  "reply" : "Vendemos unicamente al por menor"},
+                            {"question":"Te doy 750, trato?", "user": "Mel743", "reply" : ""}
+                            ],
+                "quantityavailable" : 20,
+                "price" : 12490,
+                "listprice" : 14500,
+                "image" : "kia-picanto.jpg",
+                "relateditems": [
+                  {"id":2,"displayname":"Kia Rio HATCH 5P","price" : 23490, "image":"kia-rio-e.jpg"}
+                ,{"id":3,"displayname":"Volkswagen Gol G3","price" : 8500, "image":"volkswagen-gol-g3-e.jpg"}
+                ,{"id":4,"displayname":"Volkswagen Gol G6 FULL","price" : 13500, "image":"volkswagen-gol-g6-e.jpg"}
+                ,{"id":5,"displayname":"Chevrolet Onix Full LTZ 1.4","price" : 17000, "image":"onix-ltz-e.jpg"}
+                ,{"id":6,"displayname":"Suzuki Celerio GA","price" : 12990, "image":"suzuki-celerio-e.jpg"}
+                ,{"id":7,"displayname":"Mitsubishi Lancer ex gls 2.0","price" : 24500, "image":"mitsubishi-lancer-e.jpg"}
+                ]
+    },
+            {"id":2,
+              "displayname":"Kia Rio HATCH 5P",
+              "description" : [{"title": "Descripcion general", "text":"Auto 0km!"},
+                    {"title": "Procedencia", "text":"Estados Unidos"},
+                    {"title": "Año", "text":"2014"},
+                    {"title": "Garantia", "text":"1 año"}
+
+                ],
+                "questions" : [{"question":"Quedan en stock?", "user": "User43", "reply" : "Aun tengo!"},
+                    {"question":"Esta todo en regla?", "user": "Joe34", "reply" : "Todos los papeles al dia."},
+                    {"question":"Puedo probarlo?", "user": "NicolasViera", "reply" : "Si podes hacer un test drive"}
+                ],
+                "quantityavailable" : 0,
+                "price" : 23490,
+                "listprice" : 25000,
+                "image" : "kia-rio-e.jpg",
+                "relateditems": [ {"id":1,"displayname":"Kia Picanto FULL MANUAL","price" : 12490, "image":"kia-picanto.jpg"}
+                    ,{"id":3,"displayname":"Volkswagen Gol G3","price" : 8500, "image":"volkswagen-gol-g3-e.jpg"}
+                    ,{"id":4,"displayname":"Volkswagen Gol G6 FULL","price" : 13500, "image":"volkswagen-gol-g6-e.jpg"}
+                    ,{"id":5,"displayname":"Chevrolet Onix Full LTZ 1.4","price" : 17000, "image":"onix-ltz-e.jpg"}
+                    ,{"id":6,"displayname":"Suzuki Celerio GA","price" : 12990, "image":"suzuki-celerio-e.jpg"}
+                    ,{"id":7,"displayname":"Mitsubishi Lancer ex gls 2.0","price" : 24500, "image":"mitsubishi-lancer-e.jpg"}]
+            },
+            {"id":3,
+              "displayname":"Volkswagen Gol G3",
+              "description" : [{"title": "Color", "text":"Gris"},
+                {"title": "Combustible", "text":"Nafta"},
+                {"title": "Direccion", "text":"Hidraulica"},
+                {"title": "Año", "text":"2015"},
+                {"title": "Transmision", "text":"Manual"},
+                {"title": "Puertas", "text":"5"},
+                {"title": "KM", "text":"81584 km"}
+
+              ],
+              "questions" : [{"question":"Quedan  Volkswagen en stock?", "user": "User43", "reply" : "Aun tengo!"},
+                {"question":"Esta todo en regla?", "user": "Joe34", "reply" : "Todos los papeles al dia."},
+                {"question":"Puedo probarlo el Volkswagen?", "user": "NicolasViera", "reply" : "Si podes hacer un test drive"}
+              ],
+              "quantityavailable" : 3,
+              "price" : 8500,
+              "listprice" : 9000,
+              "image" : "volkswagen-gol-g3-e.jpg",
+              "relateditems": [
+                        {"id":1,"displayname":"Kia Picanto FULL MANUAL","price" : 12490, "image":"kia-picanto.jpg"}
+                        ,{"id":2,"displayname":"Kia Rio HATCH 5P","price" : 23490, "image":"kia-rio-e.jpg"}
+                        ,{"id":4,"displayname":"Volkswagen Gol G6 FULL","price" : 13500, "image":"volkswagen-gol-g6-e.jpg"}
+                        ,{"id":5,"displayname":"Chevrolet Onix Full LTZ 1.4","price" : 17000, "image":"onix-ltz-e.jpg"}
+                        ,{"id":6,"displayname":"Suzuki Celerio GA","price" : 12990, "image":"suzuki-celerio-e.jpg"}
+                        ,{"id":7,"displayname":"Mitsubishi Lancer ex gls 2.0","price" : 24500, "image":"mitsubishi-lancer-e.jpg"}
+              ]
+            }
+          , {"id":4,
+            "displayname":"Volkswagen Gol G6 FULL",
+            "description" : [{"title": "Color", "text":"Blanco"},
+              {"title": "Combustible", "text":"Nafta"},
+              {"title": "Direccion", "text":"Hidraulica"},
+              {"title": "Año", "text":"2014"},
+              {"title": "Transmision", "text":"Manual"},
+              {"title": "Puertas", "text":"5"},
+              {"title": "KM", "text":"43000 km"}
+
+            ],
+            "questions" : [{"question":"Quedan  Volkswagen en stock?", "user": "User43", "reply" : "Aun tengo!"},
+              {"question":"Esta todo en regla?", "user": "Joe34", "reply" : "Todos los papeles al dia."},
+              {"question":"Puedo probarlo el Volkswagen?", "user": "NicolasViera", "reply" : "Si podes hacer un test drive"}
+            ],
+            "quantityavailable" : 0,
+            "price" : 13500,
+            "listprice" : 15000,
+            "image" : "volkswagen-gol-g6-e.jpg",
+            "relateditems": [
+              {"id":1,"displayname":"Kia Picanto FULL MANUAL","price" : 12490, "image":"kia-picanto.jpg"}
+              ,{"id":2,"displayname":"Kia Rio HATCH 5P","price" : 23490, "image":"kia-rio-e.jpg"}
+              ,{"id":3,"displayname":"Volkswagen Gol G3","price" : 8500, "image":"volkswagen-gol-g3-e.jpg"}
+              ,{"id":5,"displayname":"Chevrolet Onix Full LTZ 1.4","price" : 17000, "image":"onix-ltz-e.jpg"}
+              ,{"id":6,"displayname":"Suzuki Celerio GA","price" : 12990, "image":"suzuki-celerio-e.jpg"}
+              ,{"id":7,"displayname":"Mitsubishi Lancer ex gls 2.0","price" : 24500, "image":"mitsubishi-lancer-e.jpg"}
+            ]
+          }
+          , {"id":5,
+              "displayname":"Chevrolet Onix Full LTZ 1.4",
+              "description" : [{"title": "Color", "text":"Blanco"},
+                {"title": "Combustible", "text":"Nafta"},
+                {"title": "Direccion", "text":"Hidraulica"},
+                {"title": "Año", "text":"2015"},
+                {"title": "Transmision", "text":"Manual"},
+                {"title": "Puertas", "text":"4"},
+                {"title": "KM", "text":"14000 km"}
+
+              ],
+              "questions" : [{"question":"Quedan  Chevrolet en stock?", "user": "User43", "reply" : "Aun tengo!"},
+                {"question":"Esta todo en regla?", "user": "Joe34", "reply" : "Todos los papeles al dia."},
+                {"question":"Puedo probarlo el Chevrolet?", "user": "NicolasViera", "reply" : "Si podes hacer un test drive"}
+              ],
+              "quantityavailable" : 1,
+              "price" : 17000,
+              "listprice" : 19500,
+              "image" : "onix-ltz-e.jpg",
+              "relateditems": [{"id":1,"displayname":"Kia Picanto FULL MANUAL","price" : 12490, "image":"kia-picanto.jpg"}
+              ,{"id":2,"displayname":"Kia Rio HATCH 5P","price" : 23490, "image":"kia-rio-e.jpg"}
+              ,{"id":3,"displayname":"Volkswagen Gol G3","price" : 8500, "image":"volkswagen-gol-g3-e.jpg"}
+              ,{"id":4,"displayname":"Volkswagen Gol G6 FULL","price" : 13500, "image":"volkswagen-gol-g6-e.jpg"}
+              ,{"id":6,"displayname":"Suzuki Celerio GA","price" : 12990, "image":"suzuki-celerio-e.jpg"}
+              ,{"id":7,"displayname":"Mitsubishi Lancer ex gls 2.0","price" : 24500, "image":"mitsubishi-lancer-e.jpg"}]
+            }
+            , {"id":6,
+                "displayname":"Suzuki Celerio GA",
+                "description" : [{"title": "Color", "text":"Azul"},
+                  {"title": "Combustible", "text":"Nafta"},
+                  {"title": "Direccion", "text":"Asistida"},
+                  {"title": "Año", "text":"2015"},
+                  {"title": "Transmision", "text":"Manual"},
+                  {"title": "Puertas", "text":"5"},
+                  {"title": "KM", "text":"0 km"}
+
+                ],
+                "questions" : [{"question":"Quedan  Suzuki en stock?", "user": "User43", "reply" : "Aun tengo!"},
+                  {"question":"Esta todo en regla?", "user": "Joe34", "reply" : "Todos los papeles al dia."},
+                  {"question":"Puedo probarlo el Suzuki?", "user": "NicolasViera", "reply" : "Si podes hacer un test drive"}
+                ],
+                "quantityavailable" : 6,
+                "price" : 12990,
+                "listprice" : 14600,
+                "image" : "suzuki-celerio-e.jpg",
+                "relateditems": [
+                  {"id":1,"displayname":"Kia Picanto FULL MANUAL","price" : 12490, "image":"kia-picanto.jpg"}
+                  ,{"id":2,"displayname":"Kia Rio HATCH 5P","price" : 23490, "image":"kia-rio-e.jpg"}
+                  ,{"id":3,"displayname":"Volkswagen Gol G3","price" : 8500, "image":"volkswagen-gol-g3-e.jpg"}
+                  ,{"id":4,"displayname":"Volkswagen Gol G6 FULL","price" : 13500, "image":"volkswagen-gol-g6-e.jpg"}
+                  ,{"id":5,"displayname":"Chevrolet Onix Full LTZ 1.4","price" : 17000, "image":"onix-ltz-e.jpg"}
+                  ,{"id":7,"displayname":"Mitsubishi Lancer ex gls 2.0","price" : 24500, "image":"mitsubishi-lancer-e.jpg"}
+                ]
+              }
+            , {"id":7,
+              "displayname":"Mitsubishi Lancer ex gls 2.0",
+              "description" : [{"title": "Color", "text":"Gris"},
+                {"title": "Combustible", "text":"Nafta"},
+                {"title": "Direccion", "text":"Asistida"},
+                {"title": "Año", "text":"2013"},
+                {"title": "Transmision", "text":"Manual"},
+                {"title": "Puertas", "text":"4"},
+                {"title": "KM", "text":"34020 km"}
+
+              ],
+
+              "questions" : [{"question":"Lo quiero para picadas", "user": "ToretoDominic", "reply" : "Tenemos un trato"},
+                {"question":"Quedan  Mitsubishi en stock?", "user": "User43", "reply" : "Aun tengo!"},
+                {"question":"Puedo darle a fondo al motor?", "user": "Joe34", "reply" : "Siempre se puede."},
+                {"question":"Puedo probarlo el Suzuki?", "user": "NicolasViera", "reply" : "Si podes hacer un test drive"}
+
+              ],
+              "quantityavailable" : 2,
+              "price" : 24500,
+              "listprice" : 27000,
+              "image" : "mitsubishi-lancer-e.jpg",
+              "relateditems": [
+                {"id":1,"displayname":"Kia Picanto FULL MANUAL","price" : 12490, "image":"kia-picanto.jpg"}
+                ,{"id":2,"displayname":"Kia Rio HATCH 5P","price" : 23490, "image":"kia-rio-e.jpg"}
+                ,{"id":3,"displayname":"Volkswagen Gol G3","price" : 8500, "image":"volkswagen-gol-g3-e.jpg"}
+                ,{"id":4,"displayname":"Volkswagen Gol G6 FULL","price" : 13500, "image":"volkswagen-gol-g6-e.jpg"}
+                ,{"id":5,"displayname":"Chevrolet Onix Full LTZ 1.4","price" : 17000, "image":"onix-ltz-e.jpg"}
+                ,{"id":6,"displayname":"Suzuki Celerio GA","price" : 12990, "image":"suzuki-celerio-e.jpg"}
+              ]
+            }
+
+        ]
+}
+
+
+
+
+

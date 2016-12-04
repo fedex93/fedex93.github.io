@@ -1,0 +1,50 @@
+#banner {
+  height: 340px;
+  width: 100%;
+  background-color: black;
+  left: 0;
+  right: 0; }
+
+#deals-items .related-item {
+  max-height: 175px;
+  max-width: 250px; }
+
+#deals-items .price-related {
+  margin: 0;
+  margin-left: 23%;
+  color: #900;
+  font-weight: bold;
+  font-size: 18px; }
+
+#deals-items .name-related {
+  color: black; }
+
+#deals-items .ch-carousel-item {
+  width: 236px !important;
+  margin-right: 17.75px !important;
+  height: 170px !important; }
+
+#deals-items .ch-carousel {
+  max-width: 750px !important;
+  padding-top: 25px; }
+
+#deals-items .ch-carousel-mask {
+  width: 750px !important;
+  margin-left: 0px !important;
+  height: 240px !important; }
+
+#deals-items .ch-carousel-list {
+  height: 240px; }
+
+.deal-loader {
+  margin-top: -142px;
+  margin-left: 27%;
+  position: fixed; }
+
+#main-content-deals #loader {
+  display: none; }
+
+.main-content-deals {
+  margin-top: 55px;
+  margin-left: 20%;
+  min-height: 500px; }
